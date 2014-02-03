@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="457f2097-a5ae-428d-a3b9-db64d5068187" name="Default" comment="" />
+    <list default="true" id="457f2097-a5ae-428d-a3b9-db64d5068187" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.ru" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/font/FontAwesome.otf" afterPath="$PROJECT_DIR$/public/css/font/FontAwesome.otf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/font/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/public/css/font/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/font/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/public/css/font/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/font/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/public/css/font/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/font/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/public/css/font/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/ie/PIE.htc" afterPath="$PROJECT_DIR$/public/css/ie/PIE.htc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/ie/backgroundsize.min.htc" afterPath="$PROJECT_DIR$/public/css/ie/backgroundsize.min.htc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/ie/html5shiv.js" afterPath="$PROJECT_DIR$/public/css/ie/html5shiv.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/ie/v8.css" afterPath="$PROJECT_DIR$/public/css/ie/v8.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/images/arrow.svg" afterPath="$PROJECT_DIR$/public/css/images/arrow.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/images/dark-arrow.svg" afterPath="$PROJECT_DIR$/public/css/images/dark-arrow.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/images/loader.gif" afterPath="$PROJECT_DIR$/public/css/images/loader.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/images/overlay.png" afterPath="$PROJECT_DIR$/public/css/images/overlay.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/images/poptrox-closer.svg" afterPath="$PROJECT_DIR$/public/css/images/poptrox-closer.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/images/poptrox-nav.svg" afterPath="$PROJECT_DIR$/public/css/images/poptrox-nav.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/skel-noscript.css" afterPath="$PROJECT_DIR$/public/css/skel-noscript.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/style-mobile.css" afterPath="$PROJECT_DIR$/public/css/style-mobile.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/style-narrow.css" afterPath="$PROJECT_DIR$/public/css/style-narrow.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/style-narrower.css" afterPath="$PROJECT_DIR$/public/css/style-narrower.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/style-normal.css" afterPath="$PROJECT_DIR$/public/css/style-normal.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/style-wide.css" afterPath="$PROJECT_DIR$/public/css/style-wide.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/public/css/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/01.jpg" afterPath="$PROJECT_DIR$/public/images/01.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/02.jpg" afterPath="$PROJECT_DIR$/public/images/02.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/03.png" afterPath="$PROJECT_DIR$/public/images/03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/04.jpg" afterPath="$PROJECT_DIR$/public/images/04.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/06.jpg" afterPath="$PROJECT_DIR$/public/images/06.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/07.jpg" afterPath="$PROJECT_DIR$/public/images/07.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/1.jpg" afterPath="$PROJECT_DIR$/public/images/1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/Anna_Hazare_Sketch.jpg" afterPath="$PROJECT_DIR$/public/images/Anna_Hazare_Sketch.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/India Transport DBB Sketch 2.JPG" afterPath="$PROJECT_DIR$/public/images/India Transport DBB Sketch 2.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/Mr.-Arvinda-Kejriwal-CM-of-Delhi-139759.jpg" afterPath="$PROJECT_DIR$/public/images/Mr.-Arvinda-Kejriwal-CM-of-Delhi-139759.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/fulls/01.jpg" afterPath="$PROJECT_DIR$/public/images/fulls/01.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/fulls/02.jpg" afterPath="$PROJECT_DIR$/public/images/fulls/02.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/fulls/03.png" afterPath="$PROJECT_DIR$/public/images/fulls/03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/fulls/04.jpg" afterPath="$PROJECT_DIR$/public/images/fulls/04.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/fulls/05.png" afterPath="$PROJECT_DIR$/public/images/fulls/05.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/fulls/06.jpg" afterPath="$PROJECT_DIR$/public/images/fulls/06.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/intro.jpg" afterPath="$PROJECT_DIR$/public/images/intro.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/one.jpg" afterPath="$PROJECT_DIR$/public/images/one.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/one8.jpg" afterPath="$PROJECT_DIR$/public/images/one8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/thumbs/01.jpg" afterPath="$PROJECT_DIR$/public/images/thumbs/01.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/thumbs/02.jpg" afterPath="$PROJECT_DIR$/public/images/thumbs/02.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/thumbs/03.png" afterPath="$PROJECT_DIR$/public/images/thumbs/03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/thumbs/04.jpg" afterPath="$PROJECT_DIR$/public/images/thumbs/04.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/thumbs/05.png" afterPath="$PROJECT_DIR$/public/images/thumbs/05.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/thumbs/06.jpg" afterPath="$PROJECT_DIR$/public/images/thumbs/06.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/two.jpg" afterPath="$PROJECT_DIR$/public/images/two.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/init.js" afterPath="$PROJECT_DIR$/public/js/init.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.min.js" afterPath="$PROJECT_DIR$/public/js/jquery.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.poptrox.min.js" afterPath="$PROJECT_DIR$/public/js/jquery.poptrox.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/skel.min.js" afterPath="$PROJECT_DIR$/public/js/skel.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/agile2014.iml" afterPath="$PROJECT_DIR$/.idea/agile2014.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="agile2014.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1391430628348" ignored="false" />
+    <file path="$PROJECT_DIR$/../alumnicenter2/.idea/workspace.xml" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1391432413892" ignored="false" />
+    <file path="/index.html" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1391432316914" ignored="false" />
+    <file path="/style.css" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1391432387918" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,10 +84,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.9905213">
+            <state line="40" column="44" selection-start="1764" selection-end="1764" vertical-scroll-proportion="-21.875">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1044" column="14" selection-start="30499" selection-end="30499" vertical-scroll-proportion="0.42789224">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.ru" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.ru">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="1" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="2" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -46,6 +133,17 @@
   <component name="GitLogSettings">
     <option name="myDateState">
       <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/config.ru" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/css/style.css" />
+      </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
@@ -99,6 +197,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agile2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agile2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agile2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agile2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -106,7 +236,19 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
   <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -202,9 +344,30 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/config.ru">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.9905213">
+        <state line="13" column="1" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="2" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="44" selection-start="1764" selection-end="1764" vertical-scroll-proportion="-21.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1044" column="14" selection-start="30499" selection-end="30499" vertical-scroll-proportion="0.42789224">
           <folding />
         </state>
       </provider>
