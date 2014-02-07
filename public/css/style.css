@@ -90,7 +90,7 @@
 	.span24{
         width:58em;
         margin-bottom: 0em;
-        margin-left: -7em;
+        margin-left: -4em;
     }
 	p, ul, ol, dl, table {
 		margin-bottom: 1em;
@@ -1041,11 +1041,8 @@
 	}
     #tweet{
         position: absolute;
-        left: 7.5em;
-        top: 0;
-        height: 3em;
-        line-height: 3em;
-        letter-spacing: -1px;
+        left: -13.5em;
+        top: -6.7em;
     }
     #fb-share-button{
         position: absolute;
