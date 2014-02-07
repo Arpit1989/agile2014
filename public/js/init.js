@@ -206,8 +206,28 @@
 													on:			function(t) { t.removeClass('inactive'); },
 													off:		function(t) { t.addClass('inactive'); }
 												});
+                                        // Sponsor
+                                            $('#sponsor')
+                                                .scrollwatch({
+                                                    delay:		25,
+                                                    range:		0.5,
+                                                    anchor:		'center',
+                                                    init:		function(t) { t.addClass('inactive'); },
+                                                    on:			function(t) { t.removeClass('inactive'); },
+                                                    off:		function(t) { t.addClass('inactive'); }
+                                                });
 
-										// Force scroll event
+                                        // Contact Us
+                                            $('#contact_us')
+                                                .scrollwatch({
+                                                    delay:		25,
+                                                    range:		0.5,
+                                                    anchor:		'center',
+                                                    init:		function(t) { t.addClass('inactive'); },
+                                                    on:			function(t) { t.removeClass('inactive'); },
+                                                    off:		function(t) { t.addClass('inactive'); }
+                                                });
+                                        // Force scroll event
 											window.setTimeout(function() {
 												$window
 													.trigger('resize')
@@ -239,8 +259,18 @@
 										$('#contact')
 											.unscrollwatch()
 											.removeClass('inactive');
-								
-								}
+
+                                    // Sponsor
+                                        $('#sponsor')
+                                            .unscrollwatch()
+                                            .removeClass('inactive');
+                                    // Contact Us
+                                        $('#contact_us')
+                                            .unscrollwatch()
+                                            .removeClass('inactive');
+
+
+                                }
 
 							}
 						
