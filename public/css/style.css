@@ -30,6 +30,7 @@
 
 	body {
 		background: #fff;
+        overflow-y: hidden;
 	}
 
 		body.loading {
