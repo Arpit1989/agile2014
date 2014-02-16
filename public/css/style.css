@@ -110,6 +110,8 @@
 		font-style: italic;
 	}
 	.span24{
+        position: relative;
+        top:-13em;
         width:58em;
         margin-bottom: 0em;
         margin-left: -9em;
@@ -1101,11 +1103,22 @@
 		line-height: 3em;
 		box-shadow: 0 0 0.15em 0 rgba(0,0,0,0.1);
 	}
+    #slider_container {
+        position: absolute;
+        left:-3em;
+        top: -4em;
+    }
+    .intro-head{
+        position: relative;
+        top: -13em;
+    }
     #tweet{
         position: absolute;
         left: 46.2em;
-        top: -6.7em;
+        top: -9.3em;
         width: 12em;
+        overflow:auto;
+        overflow-style: auto;
     }
     #fb-share-button{
         position: absolute;
@@ -1193,7 +1206,7 @@
 /*********************************************************************************/
 
 	#two {
-		background: url('images/overlay.png'), url('../images/two.jpg');
+		background: url('images/'), url('../images/');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
