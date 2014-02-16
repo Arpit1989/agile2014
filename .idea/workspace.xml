@@ -9,7 +9,7 @@
     <file path="/Dummy.txt" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1392580082228" ignored="false" />
     <file path="$PROJECT_DIR$/../alumnicenter2/.idea/workspace.xml" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1391533352340" ignored="false" />
     <file path="/index.html" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1392582689631" ignored="false" />
-    <file path="/style.css" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1392583352744" ignored="false" />
+    <file path="/style.css" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1392583653564" ignored="false" />
     <file path="$PROJECT_DIR$/../alumnicenter2/solr/conf/schema.xml" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1391505181498" ignored="false" />
     <file path="$PROJECT_DIR$/../alumnicenter2/app/models/search_parser.rb" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1391514828131" ignored="false" />
     <file path="$PROJECT_DIR$/../alumnicenter2/log/bullet.log" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1391461914712" ignored="false" />
@@ -69,7 +69,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="27" selection-start="1303" selection-end="1303" vertical-scroll-proportion="0.505618">
+            <state line="1118" column="16" selection-start="31967" selection-end="31967" vertical-scroll-proportion="0.45264846">
               <folding />
             </state>
           </provider>
@@ -505,7 +505,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="27" selection-start="1303" selection-end="1303" vertical-scroll-proportion="0.505618">
+        <state line="1118" column="16" selection-start="31967" selection-end="31967" vertical-scroll-proportion="0.45264846">
           <folding />
         </state>
       </provider>

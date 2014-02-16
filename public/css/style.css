@@ -115,7 +115,7 @@
         top:-13em;
         width:58em;
         margin-bottom: 0em;
-        margin-left: -9em;
+        margin-left: -15em;
     }
 	p, ul, ol, dl, table {
 		margin-bottom: 1em;
@@ -1106,16 +1106,17 @@
 	}
     #slider_container {
         position: absolute;
-        left:-3em;
+        left:-9em;
         top: -4em;
     }
     .intro-head{
         position: relative;
         top: -13em;
+        left:-6em;
     }
     #tweet{
         position: absolute;
-        left: 46.2em;
+        left: 41.2em;
         top: -9.3em;
         width: 12em;
         overflow:auto;
