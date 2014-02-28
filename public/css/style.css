@@ -42,17 +42,16 @@
 }
 #gmap{
     position: relative;
-    left: -19em;
-    top: 2em;
+    left: -15em;
+    top: -11em;
 
 }
 #taj{
     position: relative;
-    top: 8em;
+    top: 6em;
     width: 15em;
-    left: 40em;
+    left: 38em;
     font-family: FontAwesome;
-    font-size: 34;
 }
 #mera{
     position: relative;
@@ -604,25 +603,28 @@
     -ms-transform: translateZ(0);
     transform: translateZ(0);
 }
+.spon{
+    position: relative;
+    top: -6em;
+}
 .xebia{
     position: relative;
     left: 26em;
-    top:0em;
+    top:-19em;
 }
 .scrum{
-           position: relative;
-            top: 8em;
-    left: 26em;
+    position: relative;
+    top: -16em;
+    left: 12em;
 }
 .jabong{
     position: relative;
-    top: 14em;
-    left: 26em;
+    top: -13em;
 }
 .izen{
     position: relative;
-    top: 13em;
-    left:40em;
+    top: -12em;
+    left:3em;
 }
 .mainsponsor{
     padding-bottom: 1.1em;

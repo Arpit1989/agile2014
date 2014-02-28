@@ -4,14 +4,13 @@
     <list default="true" id="457f2097-a5ae-428d-a3b9-db64d5068187" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/style.css" afterPath="$PROJECT_DIR$/public/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="agile2014.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393350244876" ignored="false" />
     <file path="$PROJECT_DIR$/../alumnicenter2/.idea/workspace.xml" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1391533352340" ignored="false" />
-    <file path="/index.html" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393530456310" ignored="false" />
-    <file path="/style.css" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393530897729" ignored="false" />
+    <file path="/index.html" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393613233966" ignored="false" />
+    <file path="/style.css" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393612531409" ignored="false" />
     <file path="$PROJECT_DIR$/../alumnicenter2/solr/conf/schema.xml" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1391505181498" ignored="false" />
     <file path="$PROJECT_DIR$/../alumnicenter2/app/models/search_parser.rb" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1391514828131" ignored="false" />
     <file path="$PROJECT_DIR$/../alumnicenter2/log/bullet.log" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1391461914712" ignored="false" />
@@ -20,9 +19,33 @@
     <file path="$PROJECT_DIR$/../alumnicenter2/db/schema.rb" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1391505181498" ignored="false" />
     <file path="$PROJECT_DIR$/../alumnicenter2/app/models/corporate_recruiter.rb" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1391505181498" ignored="false" />
     <file path="$PROJECT_DIR$/../alumnicenter2/doc/user_data.sql" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1391514828131" ignored="false" />
-    <file path="/a.dummy" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1391531526722" ignored="false" />
+    <file path="/a.dummy" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393583135547" ignored="false" />
     <file path="$PROJECT_DIR$/../alumnicenter2/solr/data/development/replication.properties" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1392010488904" ignored="false" />
-    <file path="$PROJECT_DIR$/../alumnicenter2/log/sunspot-solr-development.log" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393527950565" ignored="false" />
+    <file path="$PROJECT_DIR$/../alumnicenter2/log/sunspot-solr-development.log" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393567950159" ignored="false" />
+    <file path="/profile.html.haml" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393567958067" ignored="false" />
+    <file path="$PROJECT_DIR$/../alumnicenter2/app/views/layouts/profile.html.haml" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393567958067" ignored="false" />
+    <file path="/main.html.haml" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393567970161" ignored="false" />
+    <file path="$PROJECT_DIR$/../alumnicenter2/app/views/layouts/main.html.haml" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393567970161" ignored="false" />
+    <file path="$PROJECT_DIR$/../alumnicenter2/app/views/profiles/_visibility_settings.html.haml" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393568759836" ignored="false" />
+    <file path="/_visibility_settings.html.haml" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393568757923" ignored="false" />
+    <file path="$PROJECT_DIR$/../alumnicenter2/app/views/shared/_mast_head.html.slim" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393569236023" ignored="false" />
+    <file path="/_mast_head.html.slim" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393569233618" ignored="false" />
+    <file path="$PROJECT_DIR$/../alumnicenter2/app/views/searches/_results.html.slim" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393574176729" ignored="false" />
+    <file path="/_results.html.slim" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393571253128" ignored="false" />
+    <file path="$PROJECT_DIR$/../alumnicenter2/app/views/searches/_saved_search.html.haml" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393573588147" ignored="false" />
+    <file path="/_saved_search.html.haml" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393573529369" ignored="false" />
+    <file path="$PROJECT_DIR$/../alumnicenter2/app/assets/javascripts/main.js" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393574364379" ignored="false" />
+    <file path="/main.js" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393574362445" ignored="false" />
+    <file path="$PROJECT_DIR$/../alumnicenter2/app/assets/javascripts/search.js" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393574155428" ignored="false" />
+    <file path="/search.js" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393574064316" ignored="false" />
+    <file path="$PROJECT_DIR$/../alumnicenter2/app/views/items/_search_form.html.haml" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393575118018" ignored="false" />
+    <file path="/_search_form.html.haml" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393575114941" ignored="false" />
+    <file path="$PROJECT_DIR$/../alumnicenter2/app/views/jobs/_actions.html.haml" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393577934048" ignored="false" />
+    <file path="/_actions.html.haml" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393577931844" ignored="false" />
+    <file path="$PROJECT_DIR$/../alumnicenter2/app/views/jobs/_job_application_email.html.haml" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393578704766" ignored="false" />
+    <file path="/_job_application_email.html.haml" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393578703052" ignored="false" />
+    <file path="$PROJECT_DIR$/../alumnicenter2/app/views/jobs/show.html.haml" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393579152349" ignored="false" />
+    <file path="/show.html.haml" changelist="457f2097-a5ae-428d-a3b9-db64d5068187" time="1393579150873" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +65,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="184" column="26" selection-start="11828" selection-end="11828" vertical-scroll-proportion="-6.875">
+            <state line="112" column="41" selection-start="7481" selection-end="7481" vertical-scroll-proportion="0.72">
               <folding>
                 <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -74,10 +97,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="30" selection-start="1447" selection-end="1447" vertical-scroll-proportion="0.83146065">
+            <state line="45" column="15" selection-start="1641" selection-end="1641" vertical-scroll-proportion="-6.230769">
               <folding />
             </state>
           </provider>
@@ -123,8 +146,8 @@
         <option value="$PROJECT_DIR$/config.ru" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/public/js/init.js" />
-        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/public/css/style.css" />
+        <option value="$PROJECT_DIR$/public/index.html" />
       </list>
     </option>
   </component>
@@ -509,22 +532,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="15" selection-start="1641" selection-end="1641" vertical-scroll-proportion="-6.230769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="184" column="26" selection-start="11828" selection-end="11828" vertical-scroll-proportion="-6.875">
+        <state line="112" column="41" selection-start="7481" selection-end="7481" vertical-scroll-proportion="0.72">
           <folding>
             <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#2;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="30" selection-start="1447" selection-end="1447" vertical-scroll-proportion="0.83146065">
-          <folding />
         </state>
       </provider>
     </entry>
