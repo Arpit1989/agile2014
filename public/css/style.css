@@ -5,6 +5,41 @@
 /*********************************************************************************/
 /* Gmap                                                                         */
 /*********************************************************************************/
+.speaker{
+    position: relative;
+    top:-14.5em;
+    width: 19.8em;
+    word-wrap: normal;
+    border: 0.9em solid indianred;
+    border-bottom-right-radius: 4em;
+    border-top-right-radius: 1em;
+    border-bottom-style: double;
+    margin-left: 0.2em;
+}
+.speaker2{
+    position: relative;
+    top:-14.5em;
+    padding-left: 0.2em;
+    width: 19.8em;
+    word-wrap: normal;
+    border: 0.9em solid lightskyblue;
+    border-bottom-right-radius: 4em;
+    border-top-right-radius: 1em;
+    border-bottom-style: double;
+    margin-left: 0.2em;
+}
+.speaker3{
+    position: relative;
+    top:-14.5em;
+    padding-left: 0.2em;
+    width: 19.8em;
+    word-wrap: normal;
+    border: 0.9em solid khaki;
+    border-bottom-right-radius: 4em;
+    border-top-right-radius: 1em;
+    border-bottom-style: double;
+    margin-left: 0.2em;
+}
 #gmap{
     position: relative;
     left: -19em;
@@ -12,7 +47,7 @@
 
 }
 #taj{
-    position: absolute;
+    position: relative;
     top: 8em;
     width: 15em;
     left: 40em;
@@ -112,7 +147,7 @@
 	}
 	.span24{
         position: relative;
-        top:-13em;
+        top:-2em;
         width:58em;
         margin-bottom: 0em;
         margin-left: -15em;
@@ -528,7 +563,7 @@
 			}
 			
 				.main.style1.inactive .content {
-					opacity: 0;
+					opacity: 1.0;
 				}
 		
 			.main.style2 {
@@ -570,22 +605,22 @@
     transform: translateZ(0);
 }
 .xebia{
-    position: absolute;
+    position: relative;
     left: 26em;
     top:0em;
 }
 .scrum{
-           position: absolute;
+           position: relative;
             top: 8em;
     left: 26em;
 }
 .jabong{
-    position: absolute;
+    position: relative;
     top: 14em;
     left: 26em;
 }
 .izen{
-    position: absolute;
+    position: relative;
     top: 13em;
     left:40em;
 }
@@ -1105,25 +1140,25 @@
 		box-shadow: 0 0 0.15em 0 rgba(0,0,0,0.1);
 	}
     #slider_container {
-        position: absolute;
+        position: relative;
         left:-9em;
-        top: -4em;
+        top: -1em;
     }
     .intro-head{
         position: relative;
-        top: -13em;
+        top: -3em;
         left:-6em;
     }
     #tweet{
-        position: absolute;
+        position: relative;
         left: 41.2em;
-        top: -9.3em;
+        top: -28.3em;
         width: 12em;
         overflow:auto;
         overflow-style: auto;
     }
     #fb-share-button{
-        position: absolute;
+        position: relative;
         left:11em;
         top: -1.1em;
         height: 3em;
