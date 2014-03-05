@@ -40,6 +40,10 @@
     border-bottom-style: double;
     margin-left: 0.2em;
 }
+.sectionContainer{
+	text-align: center;
+}
+
 #gmap{
     position: relative;
     left: -15em;
