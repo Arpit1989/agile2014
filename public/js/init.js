@@ -324,5 +324,5 @@
 						.trigger('resize')
 						.trigger('scroll');
 				});
-
+			$('.bxslider').bxSlider();
 		});
