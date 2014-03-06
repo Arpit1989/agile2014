@@ -1144,23 +1144,11 @@
 		line-height: 3em;
 		box-shadow: 0 0 0.15em 0 rgba(0,0,0,0.1);
 	}
-    #slider_container {
-        position: relative;
-        left:-9em;
-        top: -1em;
-    }
+    
     .intro-head{
         position: relative;
         top: -3em;
         left:-6em;
-    }
-    #tweet{
-        position: absolute;
-        left: 45em;
-        right: 0px;
-        top: -2em;
-        width: 13em;
-        overflow:auto;
     }
     #fb-share-button{
         position: relative;
@@ -1221,22 +1209,29 @@
 					padding: 0 0.5em 0 0.5em;
 					outline: 0;
 				}
-#full-screen-slider {
-  margin-bottom: 0;
+
+/*.bx-wrapper .bx-next:hover {
+	background: url(images/controls.png) no-repeat -43px -32px !important;
 }
-.carousel .carousel-inner .item img {
-  width: 100%;
-}
-.all-sliders {
-  position: fixed;
-  top: 25px;
-  right: 25px;
-  color: white;
-  z-index: 10;
-}
-.all-sliders:hover {
-  color: white;
-}
+
+.bx-wrapper .bx-prev:hover {
+	background: url(images/controls.png) no-repeat 0 -32px !important;
+}*/
+	.slider_container{
+		width: 90%;
+		margin-left: -72px;
+	    float:left;
+	}
+	#tweet{
+		margin-top: -200px;
+		margin-left: -72px;
+		width: 10%;
+	    float:right;
+	}
+	.slidTweet{
+		width: 100%;
+	}
+
 /*********************************************************************************/
 /* Intro                                                                         */
 /*********************************************************************************/
