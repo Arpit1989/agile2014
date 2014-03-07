@@ -600,6 +600,7 @@
 .spon{
     position: relative;
     top: -6em;
+    padding-left: 300px !important;
 }
 .xebia{
     position: relative;
