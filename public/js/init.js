@@ -313,5 +313,8 @@ var sponsor_image = ["../images/xebia.jpg","../images/scrum.jpg","../images/jabo
 for(var i=0; i <= 3 ; i++){
  	$($('.spon > img')[i]).attr('src', sponsor_image[i]);
  }
+ //Dynamic agenda image
+ $('.day1 > img').attr('src', "http://onthisdomain.com/agilencr/wp-content/uploads/2014/02/AgileNCR-2014-4th-April-2014-Main-Conference-Day-1-6-Mar.jpg");
+ $('.day2 > img').attr('src', "http://onthisdomain.com/agilencr/wp-content/uploads/2014/02/AgileNCR-2014-5th-April-2014-Main-Conference-Day-2-6-Mar.jpg");
 });
 
