@@ -142,7 +142,6 @@
 		font-style: italic;
 	}
 	.span24{
-        position: relative;
         top:-2em;
         width:58em;
         margin-bottom: 0em;
@@ -797,9 +796,6 @@
 		margin-left: -72px;
 		width: 10%;
 	    float:right;
-	}
-	.slidTweet{
-		width: 100%;
 	}
 
 /*********************************************************************************/

@@ -335,11 +335,11 @@ $(window).load(function() {
  					  "http://onthisdomain.com/agilencr/wp-content/themes/simplenbright/timthumb.php?src=http://onthisdomain.com/agilencr/wp-content/uploads/2014/02/Slider-Conference-modified.jpg&h=288&w=800",
  					  "http://onthisdomain.com/agilencr/wp-content/themes/simplenbright/timthumb.php?src=http://onthisdomain.com/agilencr/wp-content/uploads/2014/02/Slider-Preconworkshops-modified.jpg&h=288&w=800",
  					  "http://onthisdomain.com/agilencr/wp-content/themes/simplenbright/timthumb.php?src=http://onthisdomain.com/agilencr/wp-content/uploads/2014/02/Slider-CXOs-Conclave.jpg&h=288&w=800"];
-//BxSlider slowing 8 li element . 1st and last one seem dummy . so setting 2-6 images . index 1 dummy , 2 already set and 7th already set
+//BxSlider slowing 8 li element . 0th and last one seem dummy.Index 0 dummy , 1 already set and 7th already set,so setting 2-6 images. 
  for(var i=2; i <= 6 ; i++){
  	$($('.bxslider > li')[i]).children().attr('src', image_sources[i-2])
  }
  $('#one').css("background", "url('../images/one.jpg') no-repeat");
-
+ $('.speaker > img, .speaker2 > img, .speaker3 > img').attr("src", "../images/rena.jpg");
 });
 
