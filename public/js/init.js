@@ -311,7 +311,7 @@ $(window).load(function() {
 //Sponsor dynamic image
 var sponsor_image = ["../images/xebia.jpg","../images/scrum.jpg","../images/jabong.jpg","../images/izen.png"];
 for(var i=0; i <= 3 ; i++){
- 	$('.spon > img')[i].attr('src', sponsor_image[i]);
+ 	$($('.spon > img')[i]).attr('src', sponsor_image[i]);
  }
 });
 
