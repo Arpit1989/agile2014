@@ -339,6 +339,7 @@ $(window).load(function() {
  for(var i=2; i <= 6 ; i++){
  	$($('.bxslider > li')[i]).children().attr('src', image_sources[i-2])
  }
+ $('#one').css("background", "url('../images/one.jpg') no-repeat");
 
 });
 
