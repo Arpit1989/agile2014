@@ -29,21 +29,6 @@
 					'mobile-narrow': { range: '-480', containers: '95%', grid: { collapse: true, gutters: 10 }, lockViewport: true, hasStyleSheet: false }
 				}
 			},
-
-		// poptrox
-			poptrox: {
-				baseZIndex: 10001,
-				useBodyOverflow: false,
-				usePopupEasyClose: false,
-				overlayColor: '#1f2328',
-				overlayOpacity: 0.65,
-				usePopupDefaultStyling: false,
-				usePopupCaption: true,
-				popupLoaderText: '',
-				windowMargin: 50,
-				usePopupNav: true
-			}
-
 	};
 
 /*********************************************************************************/
@@ -107,21 +92,9 @@
 					
 					}
 					
-				// Mobile?
-					if (skel.isActive('mobile')) {
-					
-						// Reduce poptrox windowMargin
-							_settings.poptrox.windowMargin = 5;
-					
-					}
-
 			// Forms
 				if (skel.vars.IEVersion < 10)
 					$('form').formerize();
-
-			// Gallery
-				$('.gallery').poptrox(_settings.poptrox);
-
 			// Events
 			
 				// State change (skel)
@@ -317,13 +290,6 @@
 						}, 100);
 					
 					});
-					
-			// Trigger events on load
-				$window.load(function() {
-					$window
-						.trigger('resize')
-						.trigger('scroll');
-				});
 				
 		});
 
