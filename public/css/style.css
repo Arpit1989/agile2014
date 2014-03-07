@@ -802,11 +802,9 @@
 /*********************************************************************************/
 
 	#intro {
-		background: url('images/overlay.png'), url('../images/intro.jpg');
-		background-size: 256px 256px, cover;
+		background:  url('http://dl.kraken.io/4ba72fa7802dba183588905d2360028f/intro.jpg') no-repeat;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
-		background-repeat: repeat, no-repeat;
 	}
 
 /*********************************************************************************/
