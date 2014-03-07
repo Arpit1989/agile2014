@@ -324,5 +324,11 @@
 						.trigger('resize')
 						.trigger('scroll');
 				});
-			$('.bxslider').bxSlider();
+				
 		});
+
+$(window).load(function() {
+ $('.bxslider').bxSlider();
+ $('#gmap > img').attr("src", "http://maps.googleapis.com/maps/api/staticmap?center=Gurgaon+Sector+44&zoom=13&scale=1&size=800x500&maptype=roadmap&sensor=false&format=png&visual_refresh=true&markers=size:mid%7Ccolor:red%7CGurgaon+Sector+44");
+});
+
